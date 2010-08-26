@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test" failures="0" tests="1" time="106.907" errors="0">
+  <properties/>
+  <testcase name="GoogleSrvTest" time="97.313" classname="org.googlesrv.GoogleSrvTest"/>
+</testsuite>

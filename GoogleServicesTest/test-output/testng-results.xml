@@ -1,0 +1,18 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="org.googlesrv.GoogleSrvTest">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="9391" started-at="2010-03-05T15:51:49Z" finished-at="2010-03-05T15:51:58Z">
+        </test-method>
+        <test-method status="PASS" signature="GoogleSrvTest()" name="GoogleSrvTest" duration-ms="97313" started-at="2010-03-05T15:51:58Z" finished-at="2010-03-05T15:53:36Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="203" started-at="2010-03-05T15:53:36Z" finished-at="2010-03-05T15:53:36Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
